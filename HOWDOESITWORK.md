@@ -3,7 +3,7 @@
 This can be used for any Java Application using an SQL backend although the tiny 
 details might be different. 
 
-##DOCUMENTATION BEING FILLED IN SOON
+## DOCUMENTATION BEING FILLED IN SOON
 
 ## Setting up Java DB. Java's built-in database 
 
