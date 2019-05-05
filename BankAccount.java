@@ -164,11 +164,11 @@ public class BankAccount {
      */
     public static void main(String[] args) {
         
-        BankAccount Talha = new BankAccount(1300.75, "Talha", "Savings", 122325);
-        BankAccount Ayesha = new BankAccount(13400.76, "Ayesha", "Chequings", 122326);
-        BankAccount Areeb = new BankAccount(2000000, "Areeb", "Line of Credit", 122327);
-        Talha.etransfer(1300.75, Areeb, 122327, 122325, "Are you gay?");
-            }
+        BankAccount Jim = new BankAccount(1300.75, "Jim", "Savings", 122325);
+        BankAccount Jeff = new BankAccount(13400.76, "Jeff", "Chequings", 122326);
+        BankAccount Sally = new BankAccount(2000000, "Sally", "Line of Credit", 122327);
+        Jim.etransfer(1300.75, Sally, 122327, 122325, "What is your middle name?");
+    }
     
     
 }
