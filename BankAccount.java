@@ -38,7 +38,7 @@ public class BankAccount {
 
             // Step 2: Establish the connection to the database 
             String url = "jdbc:derby://localhost:1527/BankAccountsServer"; 
-            Connection conn = DriverManager.getConnection(url,"tabish","rashidi1");  
+            Connection conn = DriverManager.getConnection(url,"tabish","*********");  
       
             //Create a statement 
             Statement statement = conn.createStatement();
