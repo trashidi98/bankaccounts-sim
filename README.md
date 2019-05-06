@@ -48,10 +48,23 @@ Used the NetBeans IDE, a great tool
 
 I learned A LOT. This is a fairly new language to me and I'm glad to say that I've tried to push my 
 limits. I learned about Java constructors, methods, scopes and arguements (the basics). Then I've also 
-learned about how back-end servers work. 
+learned about how back-end servers work. Also learned about SQL and 
+querying and how its connects to front end code. Every programmer should 
+understand how back and front ends work.  
 
 I wish I could have used OOP more effectively, but I'll get there.  
 
-
-
+- Java basics
+	- Methods 
+	- Classes 
+	- Variables 
+	- Constructors 
   
+- Java DB (Java Derby)
+	- Front-Back-end connection
+	- java.sql package   
+- Databases 
+- SQL 
+	- Creating a table 
+	- Using the UNIQUE keyword 
+	- Understanding the SQL lang 
